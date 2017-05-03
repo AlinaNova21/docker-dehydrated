@@ -1,0 +1,8 @@
+BASEDIR="/app"
+CHALLENGETYPE="http-01"
+WELLKNOWN="/well-known"
+HOOK="${BASEDIR}/hook.js"
+CERTDIR="/certs"
+ACCOUNTDIR="/accounts"
+#CA="https://acme-staging.api.letsencrypt.org/directory"
+
